@@ -1,49 +1,46 @@
 /**
  * @author       CaptainCluster
  * @link         https://github.com/CaptainCluster
- * @repository   JavaScript-Calculator
+ * @repository   25+5-Clock
  * @license      GNU-General-Public-License-v3.0
- * 
- * @description  A file for a CalcButton component, that serves a specified
- *               purpose in the process of making a calculation.
- */
-
-/**
- * @author       CaptainCluster
- * @link         https://github.com/CaptainCluster
- * @repository   JavaScript-Calculator
- * @license      GNU-General-Public-License-v3.0
- * 
- * @description  This file contains all the necessities to display
- *               the made calculation to the user.
- * 
- *               NOTE! The calculator can only display and process
- *               one calculation at a time!!!
- */
-
-/**
- * @author       CaptainCluster
- * @link         https://github.com/CaptainCluster
- * @repository   JavaScript-Calculator
- * @license      GNU-General-Public-License-v3.0
- * 
- * @description  This file contains the center for generating each calculation
- *               button (and their functionalities) and adding them to the HTML.
- */
-
-/**
- * @author       CaptainCluster
- * @link         https://github.com/CaptainCluster
- * @repository   JavaScript-Calculator
- * @license      GNU-General-Public-License-v3.0
- * 
+ *
  * @description  This file wraps up every single component with Container
+ * 
+ * @credits      The source for the audio element provided by FreeCodeCamp
  */
 
 /**
  * @author       CaptainCluster
  * @link         https://github.com/CaptainCluster
- * @repository   JavaScript-Calculator
+ * @repository   25+5-Clock
+ * @license      GNU-General-Public-License-v3.0
+ * 
+ * @description  Methods for controlling the timer
+ */
+
+/**
+ * @author       CaptainCluster
+ * @link         https://github.com/CaptainCluster
+ * @repository   25+5-Clock
+ * @license      GNU-General-Public-License-v3.0
+ * 
+ * @description  The timer for the program
+ */
+
+/**
+ * @author       CaptainCluster
+ * @link         https://github.com/CaptainCluster
+ * @repository   25+5-Clock
+ * @license      GNU-General-Public-License-v3.0
+ * 
+ * @description  This file contains the capabilities for adjusting a length of a specified 
+ *               time to be counted down (like the break).
+ */
+
+/**
+ * @author       CaptainCluster
+ * @link         https://github.com/CaptainCluster
+ * @repository   25+5-Clock
  * @license      GNU-General-Public-License-v3.0
  */
 
